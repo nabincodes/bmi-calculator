@@ -6,8 +6,6 @@ A simple BMI calculator made with JavaFX framework. Just enter your **weights in
 ![BMI Calculator](https://s19.postimg.org/j5ny6ld0j/BMI_Calculator.jpg)
 
 
-##OUTPUT
+##OUTPUT 
 
-
-
-![BMI Output)(https://s19.postimg.org/t1kfshter/BMI_Calculator_Output.jpg)
+![BMI Output](https://s19.postimg.org/t1kfshter/BMI_Calculator_Output.jpg)
